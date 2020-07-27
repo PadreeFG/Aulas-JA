@@ -1,0 +1,44 @@
+body{
+    background-image: url(img/fundochina2.jpg);
+    background-size: 17%;
+    background-repeat: repeat-x;
+    
+}
+#id1{
+    background-image: url(img/ramen.png);
+    background-size: 8%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.classe1{
+    background-color: #c1f112;
+    padding: 10px 10px 10px 10px;
+    width: 780px;
+    border: solid #79970d;
+    border-radius: 5px;
+}
+h2{
+    color: rgb(27, 27, 23);
+}
+.classe2{
+    background-color: #79970d;
+    width: 500px; 
+    border: solid rgb(8, 92, 29);
+    border-radius: 5px;
+
+} 
+#id3{
+    background-color: tomato;
+}
+.c3{
+    border: solid red;
+    border-radius: 10px;
+    width: 760px ;
+    height: 508px;
+}
+.c4{
+    font-family: Arial;
+    
+}
+
+
