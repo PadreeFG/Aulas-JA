@@ -1,0 +1,58 @@
+body{
+    background-image: url(img/mundo.png);
+    background-size: 17%;
+    background-repeat: repeat-x;
+    
+}
+#id1{
+    background-image: url(img/Terra.png);
+    background-size: 8%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.classe1{
+    background-color: #c1f112;
+    padding: 10px 10px 10px 10px;
+    width: 780px;
+    border: solid #79970d;
+    border-radius: 5px;
+}
+h2{
+    color: rgb(27, 27, 23);
+}
+.classe2{
+    background-color: #79970d;
+    width: 500px; 
+    border: solid rgb(8, 92, 29);
+    border-radius: 5px;
+
+} 
+#id3{
+    background-color: rgb(89, 201, 245);
+}
+.c3{
+    border: solid rgb(11, 59, 1);
+    border-radius: 10px;
+    width: 760px ;
+    height: 457px;
+}
+.c4{
+    position: relative;
+    top:-725px ;
+}
+.c5{
+    position: relative;
+    top: -950px;
+    left: 1125px;
+}
+.c6{
+    font-size: large;
+    font-family: Arial;
+}
+.c7{
+    font-family: Arial;
+}
+.c8{
+    position: relative;
+    top: -200px;
+}
